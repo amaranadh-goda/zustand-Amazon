@@ -1,0 +1,41 @@
+.form-group{
+    position: relative;
+    
+}
+.price-range-wrapper {
+    position: relative;
+    width: 79%;
+    height: 17px; 
+    background-color: #ddd;
+    border-radius: 5px; 
+  }
+  
+  .price-range-fill {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background-color: #067d62;;
+    border-radius: 5px 0 0 5px; 
+  }
+  
+
+  .max-price-value{
+    margin-left: 10px;
+    font-size: 13px;
+  }
+  .priceRange-value {
+    position: relative;
+    margin-top: -5px;
+    margin-bottom: 0px;
+    font-size: 15px;
+  }
+  
+  .Delivery{
+    font-size: 14px;
+    text-decoration: none;
+  }
+  .Proceed-to-Buy{
+    font-size: 13px;
+    border-radius: 50px;
+  }

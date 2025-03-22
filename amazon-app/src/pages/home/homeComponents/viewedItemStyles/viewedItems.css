@@ -1,0 +1,56 @@
+
+.viewedItems {
+
+position: relative;
+
+    width: 100%;
+    height: 290px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+
+}
+.viewedItemsTitle{
+    font-size: 20px;
+}
+.viewedItems-link{
+    font-size: 13px;
+    cursor: pointer;
+    
+}
+.viewedItems-link:hover{
+    color:black !important;
+    text-decoration: underline;
+}
+.viewedItems-images {
+    display: flex;
+    overflow-x: auto;
+    gap: 45px;
+    scroll-behavior: smooth;
+    padding-left: 20px;
+    padding-right: 20px;
+overflow-x: hidden;
+}
+
+.arrow-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 40px;
+    background-color: rgba(218, 213, 213, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 1; 
+}
+
+.viewedItems .left {
+    left: 0;
+}
+
+.viewedItems .right {
+    right: 0;
+}
+
+

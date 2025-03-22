@@ -1,0 +1,24 @@
+.footer-title{
+    background-color: #37475A;
+    color:white;
+    height:50px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 13px;
+}
+.GetKnow-first{
+    font-size: 13px;
+    line-height: 1.0;
+    
+}
+.GetKnow-first>p:hover{
+text-decoration: underline;
+}
+.footer-language{
+    width:100px;
+    border: 1px solid rgb(192, 192, 192,0.7);
+    padding: 5px;
+    border-radius: 2px;
+    font-size: 12px;
+}

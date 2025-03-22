@@ -1,0 +1,15 @@
+.right-container-item-language{
+    
+    position: relative;
+}
+.right-container-item-language img{
+    position: absolute;
+    top:8px;
+}
+.EN{
+    position: absolute;
+    font-size: 13px;
+    left: 10px;
+    top:8px;
+    
+}

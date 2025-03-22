@@ -1,0 +1,79 @@
+
+
+.CartPage{
+
+
+    background-color: #EAEDED;
+    position:relative;
+}
+.CartPage-Shopping-container{
+
+width:72%;
+    margin-top: 33px;
+    margin-left: 40px;
+}
+.CartPage-Shopping-Cart,.CartPage-Your-Items {
+    width:100% !important;
+}
+.shoping-Cart-header .Price{
+display: flex;
+position: relative;
+font-size: 13px;
+color:#565959;
+}
+.Price>span{
+    position: absolute;
+    right: 15px;
+}
+.Deselect-all-item:hover{
+text-decoration: underline;
+color:#565959;
+}
+.CartPage-Shopping-Cart{
+
+    width:71%;
+    background-color: white;
+    top:30px;
+}
+.CartOrder-container{
+    position: relative;
+    top:33px;
+    width:350px ;
+    
+}
+.Your-recently-viewed{
+    position: relative;
+    top: 30px;
+    width:350px ;
+
+   
+}
+.CartPage-Your-Items{
+    width:71%;
+    background-color: white;
+    position: relative;
+    top:30px;
+} 
+ .No-saved-items{
+    width:100%;
+    margin-left: 10px;
+    margin-right: 20px;
+    border: 1px solid black;
+    border-radius: 0px 0px 10px 10px;
+ }
+  .No-saved-items p{
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: 15px;
+  }
+ .moveto-cart{
+    font-size: 13px;
+    cursor: pointer;
+ }
+.delet-items,
+.addList-items,
+.seeMore-items{
+    font-size: 12px;
+    color:rgb(33, 98, 161,0.8);
+    cursor: pointer;
+}

@@ -1,0 +1,26 @@
+
+.BrandOffers-main{
+    background-color: white;
+    width: 80%;
+    height: 250px;
+    border: 1px solid rgb(192, 192, 192,0.5);
+    border-radius: 2px;
+}
+.BrandOffers-product{
+    margin-right: 40px;
+}
+.BrandOffers-text{
+
+    width:600px;
+    font-size: 20px;
+    color:rgb(0, 0, 0,0.8);
+    /* margin-bottom: 40px; */
+
+}
+.stars-container{
+margin-top: -20px;
+}
+.star-rating{
+    width:20px;
+    color:#FFD700;
+}

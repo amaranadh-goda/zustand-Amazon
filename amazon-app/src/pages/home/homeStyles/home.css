@@ -1,0 +1,170 @@
+ /* .homeContainer{
+    position: relative;
+    width: 95%;
+    margin: auto auto;
+    
+}
+.homeItems-Category-container{
+    position: absolute;
+    width: 98%;
+    margin-left:14px;
+    top: 250px;
+
+    
+}
+.viewedItems-container{
+    position: relative;
+    width: 100%;
+    margin-top: 20px;
+    
+    
+}  */
+/*new ----------*/
+/* .homeContainer {
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-direction: column !important;
+}
+
+.hero-container {
+    position: relative;
+}
+
+.heroSection {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; 
+
+}
+
+.homeItems-Category {
+    width: 98%;
+    position: absolute;
+    margin-left: 14px;
+    top: 260px; 
+    
+}
+.viewedItems-container{
+    
+    width: 100%;
+    margin-top: 20px;
+    
+    
+}
+
+@media (max-width: 768px) {
+    .homeContainer {
+        width: 100%;
+    }
+
+    .heroSection {
+        position: relative;
+        width: 100%;
+    }
+
+    .homeItems-Category {
+        width: 100%;
+        top: 100%; 
+    }
+} */
+
+
+.homeContainer {
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-direction: column; 
+  }
+  
+  .hero-container {
+    position: relative;
+
+  }
+  
+  .heroSection {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  .homeItems-Category {
+    width: 99%;
+    margin-top: 260px; 
+    padding-left: 14px;
+    display: flex;
+    flex-direction: column; 
+  }
+
+  .viewedItems-container {
+
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+  }
+  
+  .browsingHistory-container,
+  .shopingItemsInfo-container,
+  .LeftOffViewedItems-container,
+  .BrandOffers,.ShopingItemsTwo{
+
+    margin-bottom: 20px;
+
+  }
+  .BrandOffers{
+    margin-left: 250px;
+  }
+  .stright-line1{
+    border: 1px solid  rgb(192, 192, 192,0.2);
+    margin-bottom: 35px;
+    
+  }
+  .stright-line2{
+    border: 1px solid  rgb(192, 192, 192,0.2);
+    margin-bottom: 15px;
+  }
+  .SeePersonalized{
+margin-left:37%;
+margin-bottom: 15px;
+  }
+  .SeePersonalized .text{
+    line-height: 0.2;
+  }
+  .SeePersonalized  .signInButton{
+width: 250px;
+border-radius: 28px;
+font-size: 13px;
+margin-left: 75px;
+  }
+  .SeePersonalized .newCustomer{
+font-size: 12px;
+margin-left: 123px;
+  }
+  @media (max-width: 768px) {
+    .homeContainer {
+      width: 100%;
+    }
+  
+    .heroSection {
+      position: relative;
+      width: 100%;
+    }
+  
+    .homeItems-Category {
+      width: 100%;
+      margin-top: 100px; 
+    }
+  
+    .viewedItems-container,
+    .browsingHistory-container {
+    
+      margin-top: 15px;
+    }
+
+  }
+  
+

@@ -1,0 +1,32 @@
+.amazonSignUp-img{
+  margin-right: 40px;
+}
+.signUpImg{
+    width:230px;
+   
+}
+.amazonSignUp-container{
+  margin-top: -30px;
+   display: flex;
+   justify-content: center;
+ }
+.amazonSignUp-container-box{
+width:350px;
+border:1px solid silver;
+border-radius: 10px;
+padding: 35px;
+}
+  .signUpText {
+    font-size: 13px;
+    margin-left: -50px;
+    font-weight: bold;
+  }
+  .email-container{
+    width:290px;
+  }
+#exampleInputEmail1:focus {
+        border-color: lightSkyBlue !important; 
+        box-shadow: 0 0 0 0.2rem rgba(135, 206, 250, 0.25); 
+
+}
+  
