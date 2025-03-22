@@ -1,0 +1,6 @@
+.serachBar-container.focused {
+    border: 2px solid orange; /* Add a border around the container */
+    box-shadow: 0 0 0 0.25rem rgba(255, 165, 0, 0.25); /* Optional: Apply a subtle shadow */
+}
+
+

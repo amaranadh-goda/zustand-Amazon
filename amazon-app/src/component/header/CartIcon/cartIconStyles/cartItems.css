@@ -1,0 +1,66 @@
+.cartItems-img{
+width:200px;
+height:150px;
+}
+.CartItems-card-body{
+width:650px;
+font-size: 19px !important;
+line-height: 1.2;
+
+}
+.CartItems-card-body>p{
+    margin-bottom: 0px;
+}
+.In-stock{
+color:green;
+font-size:12px;
+}
+.Eligible-for-FREE-Shipping{
+    font-size: 13px;
+}
+.gift{
+    font-size: 12px;
+}
+.gift .Learn-more{
+    color:rgb(33, 98, 161,0.8);
+    text-decoration: none;
+    
+}
+.Learn-more:hover{
+    text-decoration: underline;
+    color: #565959;
+}
+.quantity-button{
+    border: 3px solid gold;
+    width:98px;
+    padding: 2px 5px;
+    border-radius: 50px;
+    margin-top: 10px;
+
+}
+.quantity-button .AiTwotoneDelete{
+font-size: 18px;
+}
+.quantity-button-items{
+    margin-top: 20px;
+    font-size: 12px;
+    color:rgb(33, 98, 161,0.8);
+}
+.cartItems-right-content{
+    font-size: 12px;
+}
+.cartItems-right-content .price{
+    font-size: 21px;
+}
+.cartItems-right-content .save,.subscribe{
+    font-size: 14px;
+    color:rgb(33, 98, 161,0.8);
+}
+.cartItems-right-content .subscribe:hover{
+    text-decoration: underline;
+    color: #565959;
+}
+.cartItems-right-content .save:hover{
+    text-decoration: underline;
+    color: #565959;
+}

@@ -1,0 +1,748 @@
+{
+  "itemsCategory": [
+    {
+      "unique": "1",
+      "title": "Min. 40% off | Play time just got better | Amazon brands",
+      "images": [
+        {
+          "id": "itemsCategory1",
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img1.jpg",
+          "name": "Min.40% off | soft toys",
+          "price": 400,
+          "activeStatus": false,
+          "endPoint": "softToys"
+        },
+        {
+          "id": "itemsCategory2",
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img2.jpg",
+          "name": "Min.50% off | Ride ons"
+        },
+        {
+          "id": "itemsCategory3",
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img3.jpg",
+          "name": "Min.40% off | Indoor games"
+        },
+        {
+          "id": "itemsCategory4",
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img4.jpg",
+          "name": "Min.50% off | Outdoor games"
+        }
+      ],
+      "link": "See all offers",
+      "id": "40ff"
+    },
+    {
+      "unique": "2",
+      "title": "Appliances for your home | Up to 55% off",
+      "images": [
+        {
+          "id": "itemsCategory5",
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img5.jpg",
+          "name": "Washing machines",
+          "activeStatus": false,
+          "endPoint": "softToys"
+        },
+        {
+          "id": "itemsCategory6",
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img6.jpg",
+          "name": "Refrigerators"
+        },
+        {
+          "id": "itemsCategory7",
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img7.jpg",
+          "name": "Air Conditioners"
+        },
+        {
+          "id": "itemsCategory8",
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img8.jpg",
+          "name": "Microwaves"
+        }
+      ],
+      "link": "See more",
+      "id": "8d68"
+    },
+    {
+      "unique": "3",
+      "title": "Revamp your home in style",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img9.jpg",
+          "name": "Cushion covers,bedsheets & more"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img10.jpg",
+          "name": "Home Storage"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img11.jpg",
+          "name": "Lighting solutions"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img12.jpg",
+          "name": "Figurines, vases & more"
+        }
+      ],
+      "link": "Explore all",
+      "id": "735d"
+    },
+    {
+      "unique": "4",
+      "title": "Starting ₹149 | Headphones",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img13.jpg",
+          "name": "Starting ₹249 | boAt"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img14.jpg",
+          "name": "Starting ₹349 | boult"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img15.jpg",
+          "name": "Starting ₹149 | Zebronics"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img16.jpg",
+          "name": "Starting ₹649 | Noise"
+        }
+      ],
+      "link": "See all offers",
+      "id": "e7f8"
+    },
+    {
+      "unique": "5",
+      "title": "Up to 60% off | Styles for women",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img17.jpg",
+          "name": "Women's Clothing"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img18.jpg",
+          "name": "Footwear+Handbags"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img19.jpg",
+          "name": "Fashion jewellery"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img20.jpg",
+          "name": "Watches"
+        }
+      ],
+      "link": "End od season sale",
+      "id": "051a"
+    },
+    {
+      "unique": "6",
+      "title": "Automotive essentials | Up to 60% off",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img21.jpg",
+          "name": "Cleaning accessories"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img22.jpg",
+          "name": "Tyre & rim care"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img23.jpg",
+          "name": "Vacuum cleaner"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img24.jpg",
+          "name": "Helmets"
+        }
+      ],
+      "link": "See more",
+      "id": "7890"
+    },
+    {
+      "unique": "7",
+      "title": "Starting ₹199 | Amazon Brands & more",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img25.jpg",
+          "name": "Starting ₹199 | Bedsheets"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img26.jpg",
+          "name": "Starting ₹199 | Curtains"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img27.jpg",
+          "name": "Up to 60% off | Home decor"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img28.jpg",
+          "name": "Minimum 40% off | Ironing board & more"
+        }
+      ],
+      "link": "See more",
+      "id": "00fb"
+    },
+    {
+      "unique": "8",
+      "title": "Explore more from Small Businesses",
+      "images": [
+        {
+          "id": 1,
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img29.jpg",
+          "name": "Ethnic, dresses & more"
+        },
+        {
+          "id": 2,
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img30.jpg",
+          "name": "Decor"
+        },
+        {
+          "id": 3,
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img31.jpg",
+          "name": "Fashion accessories"
+        },
+        {
+          "id": 4,
+          "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img32.jpg",
+          "name": "Glassware & drinkware"
+        }
+      ],
+      "link": "Explore all",
+      "id": "2d1d"
+    }
+  ],
+  "softToys": [
+    {
+      "name": "Taddy Bear",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/softToys/img1.jpeg",
+      "limited": true,
+      "price": 253,
+      "unique": "1",
+      "id": "654e"
+    },
+    {
+      "name": "Taddy Bear",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/softToys/img2.jpeg",
+      "limited": true,
+      "price": 253,
+      "unique": "2",
+      "id": "06a2"
+    },
+    {
+      "name": "Taddy Bear",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/softToys/img3.jpeg",
+      "price": 253,
+      "unique": "3",
+      "id": "538f"
+    },
+    {
+      "name": "Taddy Bear",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/softToys/img4.jpeg",
+      "limited": true,
+      "price": 253,
+      "unique": "4",
+      "id": "e8c9"
+    },
+    {
+      "name": "Taddy Bear",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/softToys/img5.jpeg",
+      "price": 253,
+      "unique": "5",
+      "id": "8839"
+    },
+    {
+      "name": "Taddy Bear",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/softToys/img6.jpeg",
+      "limited": true,
+      "price": 253,
+      "unique": "6",
+      "id": "ca53"
+    },
+    {
+      "name": "Taddy Bear",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/softToys/img7.jpeg",
+      "price": 253,
+      "unique": "7",
+      "id": "41ad"
+    },
+    {
+      "name": "Taddy Bear",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/softToys/img8.jpeg",
+      "limited": true,
+      "price": 253,
+      "unique": "8",
+      "id": "91f0"
+    },
+    {
+      "name": "Taddy Bear",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/softToys/img9.jpeg",
+      "price": 253,
+      "unique": "9",
+      "id": "2d1d"
+    },
+    {
+      "name": "Taddy Bear",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/softToys/img10.jpeg",
+      "price": 253,
+      "unique": "10",
+      "id": "0e6c"
+    },
+    {
+      "name": "Taddy Bear",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/softToys/img11.jpeg",
+      "limited": true,
+      "price": 253,
+      "unique": "11",
+      "id": "fbff"
+    },
+    {
+      "name": "Taddy Bear",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/softToys/img12.jpeg",
+      "price": 253,
+      "unique": "12",
+      "id": "01c5"
+    },
+    {
+      "name": "Taddy Bear",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/softToys/img13.jpeg",
+      "limited": true,
+      "price": 253,
+      "unique": "13",
+      "id": "11bf"
+    }
+  ],
+  "viewedItems": [
+    {
+      "id": "1",
+      "title": "Related to items you've viewed",
+      "link": "See more",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img1.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img2.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img3.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img4.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img5.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img6.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img7.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img8.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img9.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img10.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img11.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img12.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img13.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img14.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img15.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img16.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/relatedViewedImg/img17.jpg"
+        }
+      ]
+    }
+  ],
+  "browsingHistory": [
+    {
+      "id": "1",
+      "title": "Based on your browsing history",
+      "link": "See more",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/browsingHistoryImg/img4.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/browsingHistoryImg/img2.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/browsingHistoryImg/img9.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/browsingHistoryImg/img8.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/browsingHistoryImg/img5.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/browsingHistoryImg/img6.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/browsingHistoryImg/img7.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/browsingHistoryImg/img1.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/browsingHistoryImg/img3.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/browsingHistoryImg/img10.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/browsingHistoryImg/img11.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/browsingHistoryImg/img12.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/browsingHistoryImg/img13.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/browsingHistoryImg/img14.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/browsingHistoryImg/img15.jpg"
+        }
+      ]
+    }
+  ],
+  "shopingItemsInfo": [
+    {
+      "id": "1",
+      "title": "Pick up where you left off",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/ShopingItemsInfoImg/img1.jpg",
+          "itemName": "Peter England Men's",
+          "price": 629
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/ShopingItemsInfoImg/img2.jpg",
+          "itemName": "XYXX Men's Nova",
+          "price": 589
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/ShopingItemsInfoImg/img3.jpg",
+          "itemName": "Arrow Men's Solid Short",
+          "price": 629
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/ShopingItemsInfoImg/img4.jpg",
+          "itemName": "Van Heusen Men's ",
+          "price": 679
+        }
+      ],
+      "link": "See more"
+    },
+    {
+      "id": "2",
+      "title": "Keep shopping for",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/ShopingItemsInfoImg/img5.jpg",
+          "itemName": "Fabricorn Combo",
+          "price": 699
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/ShopingItemsInfoImg/img6.jpg",
+          "itemName": "Fabricorn Comboa",
+          "price": 699
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/ShopingItemsInfoImg/img7.jpg",
+          "itemName": "Fabricorn Stylish Plain",
+          "price": 979
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/ShopingItemsInfoImg/img8.jpg",
+          "itemName": "Fabricorn Combo ",
+          "price": 699
+        }
+      ],
+      "link": "See more"
+    }
+  ],
+  "exploreDynamicItems": [
+    {
+      "id": "1",
+      "title": "Explore more",
+      "price": 8490,
+      "mrp": 10900,
+      "link": "See more",
+      "description": "Cruise 45 L 2 Star Compact Minibar Refrigerator with Freezer Compartment - Direct Cool Technolo…",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/ExploreItems/img1.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/ExploreItems/img2.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/ExploreItems/img3.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/ExploreItems/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Explore more",
+      "price": 8490,
+      "mrp": 10900,
+      "link": "See more",
+      "description": "Cruise 45 L 2 Star Compact Minibar Refrigerator with Freezer Compartment - Direct Cool Technolo…",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/ExploreItems/img5.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/ExploreItems/img6.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/ExploreItems/img7.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/ExploreItems/img8.jpg"
+        }
+      ]
+    }
+  ],
+  "leftOffViewedItems": [
+    {
+      "id": "1",
+      "title": "Pick up where you left off",
+      "link": "See more",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/electronicsImg/img1.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/electronicsImg/img2.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/electronicsImg/img3.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/electronicsImg/img4.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/electronicsImg/img5.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/electronicsImg/img6.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/electronicsImg/img7.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/electronicsImg/img8.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/electronicsImg/img9.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/electronicsImg/img10.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/electronicsImg/img11.jpg"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/electronicsImg/img12.jpg"
+        }
+      ]
+    }
+  ],
+  "exploreDynamicTwo": [
+    {
+      "id": "1",
+      "title": "Explore more",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img1.jpg",
+          "price": 60,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img2.jpg",
+          "price": 68,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img3.jpg",
+          "price": 59,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img4.jpg",
+          "price": 99,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        }
+      ],
+      "link": "See more"
+    },
+    {
+      "id": "2",
+      "title": "Explore more",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img5.jpg",
+          "price": 698,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img6.jpg",
+          "price": 789,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img7.jpg",
+          "price": 659,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img8.jpg",
+          "price": 829,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        }
+      ],
+      "link": "See more"
+    },
+    {
+      "id": "3",
+      "title": "Explore more",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img9.jpg",
+          "price": 699,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img10.jpg",
+          "price": 829,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img11.jpg",
+          "price": 429,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img12.jpg",
+          "price": 689,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        }
+      ],
+      "link": "See more"
+    },
+    {
+      "id": "4",
+      "title": "Explore more",
+      "images": [
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img13.jpg",
+          "price": 659,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img14.jpg",
+          "price": 669,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img15.jpg",
+          "price": 729,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        },
+        {
+          "itemImg": "./../src/assets/homeImg/SecondItemsCategoryImg/img16.jpg",
+          "price": 699,
+          "textPrice": "₹629",
+          "name": "Washing machines"
+        }
+      ],
+      "link": "See more"
+    }
+  ],
+  "cart": [
+    {
+      "id": "538f",
+      "name": "Taddy Bear",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/softToys/img3.jpeg",
+      "price": 253,
+      "unique": "3",
+      "quantity": 1,
+      "tempPrice": 253,
+      "activeStatus": true
+    },
+    {
+      "id": "itemsCategory1",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/img1.jpg",
+      "name": "Min.40% off | soft toys",
+      "price": 400,
+      "activeStatus": true,
+      "endPoint": "softToys",
+      "quantity": 1,
+      "tempPrice": 400
+    },
+    {
+      "id": "654e",
+      "name": "Taddy Bear",
+      "itemImg": "./../src/assets/homeImg/HomeItemsCategoryImg/softToys/img1.jpeg",
+      "limited": true,
+      "price": 253,
+      "unique": "1",
+      "quantity": 1,
+      "tempPrice": 253,
+      "activeStatus": true
+    }
+  ],
+  "SaveOrders": [],
+  "user": [
+    {
+      "id": "0377",
+      "email": "amar@gmail.com",
+      "name": "Amar",
+      "password": "asdf@123"
+    }
+  ],
+  "login": [
+    {
+      "id": "b094",
+      "email": "amar@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+
+/* .HomeItemsCategory{
+
+    width: 98%;
+    margin-left:14px;
+    bottom: 360px;
+} */
+.homeItemsCategory-cart{
+    position: relative;
+    width:358px;
+    height:440px;
+    background-color:white;
+   
+}
+.homeItemsCategory-cart-title{
+    
+    line-height: 1.2;
+  
+}
+.homeItemsCategory-title{
+    font-size: 22px;
+}
+.itemsCategory-img{   
+    width:146px;
+    height: 97px;
+}
+
+.imageTextTitle-container{
+  line-height:1.0;
+  margin-bottom: 18px;
+  width: 145px;
+  
+}
+.imageTextTitle{
+    font-size: 10px;
+    font-weight: 600;
+}
+.seeMore-link{
+    position: absolute;
+   bottom:20px;
+   left: 20px;
+   cursor: pointer;
+}
+.seeMore-link:hover{
+    color: black !important;
+}

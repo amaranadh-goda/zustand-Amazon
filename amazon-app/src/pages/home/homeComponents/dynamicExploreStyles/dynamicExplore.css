@@ -1,0 +1,56 @@
+.dynamicExplore-card{
+    position: relative;
+    width:358px;
+    height:440px;
+    background-color:white;
+}
+
+.dynamicExplore-title {
+    font-size: 22px;
+}
+.dynamicExplore-img-container{
+    display: flex;
+    justify-content: center;
+
+}
+.dynamicExplore-img-container img{
+    width:100px;
+}
+.dynamicExplore-text-container{
+    width:355px;
+font-size: 13px;
+}
+.dynamicExplore-price{
+    font-size: 19px;
+     margin-right: 10px;
+}
+.dynamicExplore-mrp{
+    text-decoration: line-through;
+    
+}
+.dynamicExplore-mrp-container{
+    color: rgb(58, 56, 56);
+    opacity: 0.8;
+
+}
+
+.dynamicExplore-allImg{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.dynamicExplore-allImg img {
+    width: 70px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 5px;
+    transition: border 0.3s, box-shadow 0.3s; 
+}
+
+.dynamicExplore-allImg img.active {
+    border: 3px solid #2162a1; 
+    box-shadow: 0 0 10px rgb(33, 98, 161,0.5); /* Add shadow when active */
+}
